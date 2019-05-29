@@ -11,22 +11,6 @@ public class AccountJdbcDAO {
     static Connection conn;
 
 
-
-
-
-
-        //openConncection();
-        //closeConncection();
-        //createStatement();
-        //createPrepareStatement();
-        //findAll();
-        //findById();
-        //findByNumber();
-        //findByCreationDate();
-        //findAllAfterCreationDate();
-        //findAccountsCount();
-
-
     public AccountJdbcDAO() throws SQLException {
         openConnection();
     }

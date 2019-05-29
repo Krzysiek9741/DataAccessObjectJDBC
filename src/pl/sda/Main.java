@@ -121,7 +121,6 @@ public class Main {
         }
     }
 
-
     private void findAccountById(Scanner scanner) throws SQLException {
         System.out.println("|------------------------------------|");
         System.out.println("|         Enter account's ID:        |");
