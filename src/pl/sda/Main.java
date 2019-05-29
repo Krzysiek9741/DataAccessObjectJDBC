@@ -70,6 +70,7 @@ public class Main {
         }
     }
 
+
     private void addNewAccount(int balance, int number, String creationDate) throws SQLException {
         dao.creatNewAccount(balance, number, creationDate);
     }
