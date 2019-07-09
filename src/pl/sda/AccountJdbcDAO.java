@@ -7,7 +7,7 @@ public class AccountJdbcDAO {
 
     final static String url = "jdbc:mysql://localhost/zad1?serverTimezone=Europe/Warsaw";
     final static String user = "root";
-    final static String pass = "polibuda12";
+    final static String pass = "Lamus321";
     static Connection conn;
 
 
